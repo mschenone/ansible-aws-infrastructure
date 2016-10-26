@@ -4,7 +4,7 @@ galaxy_info:
   company: "TELUS digital"
   description: "aws-infrastructure builds out things according to seemingly arbitrary conventions. They probably make sense, in the appropriate context."
   license: MIT
-  categories:
+  galaxy_tags:
     - cloud
   platforms:
     - name: Ubuntu
