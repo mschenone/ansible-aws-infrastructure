@@ -1,5 +1,6 @@
 # ansible-aws-infrastructure
 
+Forked from [telusdigital/ansible-aws-infrastructure](https://github.com/telusdigital/ansible-aws-infrastructure)
 
 aws-infrastructure builds out things according to seemingly arbitrary conventions. They probably make sense, in the appropriate context.
 
